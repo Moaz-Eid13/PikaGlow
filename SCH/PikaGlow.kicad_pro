@@ -222,7 +222,7 @@
         },
         {
           "diameter": 5.5,
-          "drill": 5.5
+          "drill": 5.0
         }
       ],
       "zones_allow_external_fillets": false
@@ -503,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "D:/CS/Hardware Projects/PikaGlow/PikaGlow/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

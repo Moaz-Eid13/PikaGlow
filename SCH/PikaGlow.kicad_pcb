@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./")
+			(outputdirectory "D:/CS/Hardware Projects/PikaGlow/")
 		)
 	)
 	(net 0 "")
@@ -5065,7 +5065,7 @@
 	)
 	(gr_line
 		(start 109.22 166.37)
-		(end 114.794825 171.612131)
+		(end 114.794818 171.612124)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5104,9 +5104,9 @@
 		(uuid "5fb73366-d7f0-4032-a76c-a4832a2e6ec9")
 	)
 	(gr_arc
-		(start 119.17967 111.952891)
+		(start 119.179672 111.952891)
 		(mid 138.135089 107.933398)
-		(end 157.027738 112.238285)
+		(end 157.027737 112.238286)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5156,7 +5156,7 @@
 	)
 	(gr_line
 		(start 165.1 97.155)
-		(end 157.027738 112.238285)
+		(end 157.027737 112.238286)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5205,9 +5205,9 @@
 		(uuid "bf6cedfb-1bfe-4681-a314-c94c70738ef9")
 	)
 	(gr_arc
-		(start 161.672837 171.757844)
+		(start 161.672843 171.75784)
 		(mid 138.220737 175.89767)
-		(end 114.794825 171.612132)
+		(end 114.794818 171.612124)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5236,7 +5236,7 @@
 		(uuid "ebfada09-45a5-49f5-a6a3-6c44939786cc")
 	)
 	(gr_line
-		(start 161.672837 171.757844)
+		(start 161.672843 171.75784)
 		(end 172.72 162.56)
 		(stroke
 			(width 0.05)
@@ -5246,12 +5246,36 @@
 		(uuid "fab34356-a9a9-436e-9553-e1055b45d3b7")
 	)
 	(via
-		(at 102.235 103.505)
+		(at 100.965 93.345)
 		(size 5.5)
+		(drill 5)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "967646f9-e42a-4bfb-ae73-0c3b015b676a")
+	)
+	(via
+		(at 175.895 98.425)
+		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 0)
-		(uuid "285217f3-6889-4979-8964-f0db7eda0bed")
+		(uuid "e7d78380-bceb-4a56-a705-ed9db349d822")
+	)
+	(via
+		(at 100.965 101.6)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "ecbafd26-5b9a-41e3-9c88-35c0414334c7")
+	)
+	(via
+		(at 105.41 105.41)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 0)
+		(uuid "efe597ce-bddf-4bf6-9d43-bbc6d676610f")
 	)
 	(segment
 		(start 131.627491 149.111)
