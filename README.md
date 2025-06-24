@@ -13,6 +13,5 @@ This Pcb utalizes an LDR to detect ambient ligt which will make two LEDs light i
 | 5  | photoresistor    | 1        |
 | 6  | Resistor 47kΩ    | 1        |
 |7   | 2N3904 transistor| 1        |
-|----------|-----------|----------|
 <br>
 My Slack user name is Moaz Eid
