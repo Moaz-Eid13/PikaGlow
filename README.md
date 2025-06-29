@@ -2,9 +2,9 @@
 This is a design for a PCB that resembbles Pikachu the Beloved mascot of the Pokemon Franchise. As pikachu controllos electricity he will help in dark places and Light the way for you.
 This Pcb utalizes an LDR to detect ambient ligt which will make two LEDs light in the dark and Turn off in the light.<br>
 ![image](https://github.com/user-attachments/assets/8fe0941e-1d17-44cc-8220-5bf16292b064)
-![image](https://github.com/user-attachments/assets/487cbd2f-c4d5-4a86-b796-a4b6fc9513ce)
-![image](https://github.com/user-attachments/assets/69b2a181-030f-4e00-afdd-8fc230e12f05)
-![image](https://github.com/user-attachments/assets/610e1f1d-e682-45df-8385-2a7b6082dc31)
+![image](https://github.com/user-attachments/assets/040c4d18-ce1e-4899-be8c-23abbf0e4a6c)
+![image](https://github.com/user-attachments/assets/8b57971e-2afb-4129-a1f4-b8f30e4dbeaa)
+![image](https://github.com/user-attachments/assets/a54d8503-bc28-494e-9148-0c7c177f7537)
 | Item No. | Part Name        | Quantity |
 |----------|------------------|----------|
 | 1  | Resistor 220Ω    | 2        |
